@@ -485,6 +485,7 @@ FunctionWithCounter PerfEventType::KNOWN_FUNCTIONS[] = {
     {"recv",     3},
     {"sendto",   3},
     {"recvfrom", 3},
+    {"Unsafe_AllocateMemory", 3},
     {NULL}
 };
 
